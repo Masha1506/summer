@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.WebDriverRunner.source;
 import static com.codeborne.selenide.WebDriverRunner.url;
 
-
+//Строку добавил Сергей Слесарев
 public class SergeyTests {
     @Test
     void test01_open() {
